@@ -1,5 +1,0 @@
-E:\D drive\Demo Apps\RealEstate_MultiTouch_Experience\WPF.Framework\bin\Debug\WPF.Framework.dll
-E:\D drive\Demo Apps\RealEstate_MultiTouch_Experience\WPF.Framework\bin\Debug\WPF.Framework.pdb
-E:\D drive\Demo Apps\RealEstate_MultiTouch_Experience\WPF.Framework\obj\Debug\ResolveAssemblyReference.cache
-E:\D drive\Demo Apps\RealEstate_MultiTouch_Experience\WPF.Framework\obj\Debug\WPF.Framework.dll
-E:\D drive\Demo Apps\RealEstate_MultiTouch_Experience\WPF.Framework\obj\Debug\WPF.Framework.pdb
